@@ -1,0 +1,104 @@
+* {
+    margin: 0%;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+    background-color: blue;
+    font-family: 'Open Sans', sans-serif;
+  }
+  h1 {
+    font-size: 450%;
+    font-family: 'Courgette', cursive;
+    text-align: center;
+    margin-bottom: 1.5%;
+    padding: 2% 0;
+  }
+  .container {
+    width: 80%;
+    margin: 0 auto;
+    background-color: aliceblue;
+  }
+  p {
+    padding-bottom: 2%;
+  }
+  nav {
+    width: 100%;
+    font-size: 1.2rem;
+    /* background-color: #0633E0; */
+  }
+  nav a {
+    text-decoration: none;
+    color: blue;
+    padding: 1% 2%;
+    
+  }
+  nav a:hover{
+    background-color: #0633E0;
+    color: white;
+  }
+  main {
+  width: 96%;
+  padding: 2%;
+  font-size: 1.3rem;
+  line-height: 1.5;
+  }
+  main section form {
+    width: 60%;
+    margin: 0 auto;
+  }
+  main section form fieldset {
+    padding: 2%;
+  }
+  main section form label {
+display: block;
+  }
+  main section form .button {
+    padding: 2%;
+    margin-top: 1%;
+    background-color: #0633E0; 
+    color: aliceblue;
+    border-radius: 10px;
+  }
+  main section.one {
+    width: 98%;
+    margin: 0 auto;
+
+  }
+main section.one figure {
+  width: 60%;
+  margin: 0 auto;
+}
+main section.one figure img {
+  width: 100%;
+  border: 2px black inset;
+}
+  main section ul, main section ol{
+    list-style-position: inside;
+  }
+  main section.left {
+    width: 58%;
+    float: left;
+    padding-right: 2%;
+  }
+  main section.right {
+    width: 40%;
+    float: left;
+  }
+  main section .imgcon {
+    width: 99% ;
+    overflow: hidden;
+  }
+  main section .imgcon  figure{
+   width: 49%;
+   float: left;
+  }
+  main section .imgcon figure img {
+    width: 98%; 
+    border: 2px solid black;
+  }
+  footer {
+    text-align: center;
+    clear: both;
+    padding: 2% 0;
+  }

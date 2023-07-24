@@ -1,0 +1,19 @@
+ul li a {
+    color: #DC2900;
+    font-family: "Source Code Pro";
+    font-style: oblique;
+    font-size: x-large;
+    font-weight: bold;
+    font-variant: normal;
+    width: 100%;
+    display: none;
+}
+li {
+    display: inline;
+    background-color: #FBCA00;
+}
+.menu_bar p {
+    text-align: center;
+    text-decoration: none;
+    background-color: #FBCA00;
+}

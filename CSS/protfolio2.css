@@ -1,0 +1,23 @@
+body {
+    background-color: #00FF4C;
+    text-align: center;
+}
+.container {
+  width: 80%;
+  margin: 0 auto;
+  background-color: white;
+}
+p {
+  padding: 0 2%;
+}
+form {
+  width: 80%;
+  margin: 0 auto;
+}
+form fieldset {
+  width: 60%;
+margin: 0 auto;
+}
+form label {
+  display: block;
+}

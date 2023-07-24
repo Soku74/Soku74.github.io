@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Untited 1</title>
+<style type="text/css">
+body {
+    background-color: #00FF4C;
+}
+</style>
+</head>
+
+<!--Gregory Masinde Gideon,CTI110-0013-->
+
+<H1> Welcome To Gregory Masinde Gideon's Profolio Page </H1>
+
+<p>Again welcome to my portfolio page my name is Gregory at the time of writing this, I am 19. I've lived my entire 
+life in North Carolina within the Raleigh-Durham triangle. I've just recently graduated high school, and this site 
+will work as a resume for any one of my employer's colleagues or friends and family to see. Thank you for stopping 
+by and Enjoy the rest of my site.</p>
+
+<!-- This file is my own work and I typed everything manually, Gideon-->
+
