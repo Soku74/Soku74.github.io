@@ -1,0 +1,2 @@
+# soku74.github.io
+Hello there, my name is Gregory Gideon, and my email is ggideon399@gmail.com. This is my GitHub account here I will post all my current and past projects here. The repository I created here is my portfolio website. The steps I took to clone the repository onto the local machine were pretty easy first I located my files then logged on to GitHub made a repository there and then downloaded the GitHub app on my desktop and moved my related files into the repository and published it.
